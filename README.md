@@ -18,4 +18,4 @@ https://ucppredict.herokuapp.com/
 
 * If you are searching for Code, Algorithms used and Accuracy of the model Please Open "Used Car Price Prediction.ipynb" file
 
-* And Please do ⭐ the repository, if it helped you in anyway.
+
