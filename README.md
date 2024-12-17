@@ -1,4 +1,4 @@
-# Predicting the Price of Used Cars
+# Prédire le prix des voitures d'occasion
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
